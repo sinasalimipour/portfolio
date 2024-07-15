@@ -13,7 +13,7 @@ const seo = {
   og: {
     title: "Sina Salimipour Portfolio",
     type: "website",
-    url: "https://sinagun.github.io/sinagun.github.io",
+    url: "https://sinasalimipour.github.io/sinasalimipour.github.io",
   },
 };
 
@@ -21,17 +21,17 @@ const seo = {
 const greeting = {
   title: "Sina Salimipour",
   logo_name: "Sina Salimipour",
-  nickname: "Sinagun",
+  nickname: "SSP",
   subTitle:
     "A passionate individual who always thrives to work on end to end products which develop sustainable and scalable social and technical systems to create impact.",
   resumeLink:
     "https://drive.google.com/file/d/1yewhwl8Fw_eP_fYVUBfL0NmBKaTD-q_9/view?usp=sharing",
-  portfolio_repository: "https://github.com/sinagun",
+  portfolio_repository: "https://github.com/sinasalimipour",
 };
 
 const socialMediaLinks = [
   /* Your Social Media Link */
-  // github: "https://github.com/sinagun",
+  // github: "https://github.com/sinasalimipour",
   // linkedin: "https://www.linkedin.com/in/ashutosh-hathidara-88710b138/",
   // gmail: "ashutoshhathidara98@gmail.com",
   // gitlab: "https://gitlab.com/ashutoshhathidara98",
@@ -41,7 +41,7 @@ const socialMediaLinks = [
 
   {
     name: "Github",
-    link: "https://github.com/sinagun",
+    link: "https://github.com/sinasalimipour",
     fontAwesomeIcon: "fa-github", // Reference https://fontawesome.com/icons/github?style=brands
     backgroundColor: "#181717", // Reference https://simpleicons.org/?q=github
   },
@@ -59,7 +59,7 @@ const socialMediaLinks = [
   // },
   {
     name: "Gmail",
-    link: "mailto:sinagunps4@gmail.com",
+    link: "mailto:sinasalimipourps4@gmail.com",
     fontAwesomeIcon: "fa-google", // Reference https://fontawesome.com/icons/google?style=brands
     backgroundColor: "#D14836", // Reference https://simpleicons.org/?q=gmail
   },
@@ -336,7 +336,7 @@ const competitiveSites = {
       style: {
         color: "#fffff",
       },
-      profileLink: "https://github.com/sinagun",
+      profileLink: "https://github.com/sinasalimipour",
     },
     // {
     //   siteName: "HackerRank",
@@ -344,7 +344,7 @@ const competitiveSites = {
     //   style: {
     //     color: "#2EC866",
     //   },
-    //   profileLink: "https://www.hackerrank.com/sinagunps4",
+    //   profileLink: "https://www.hackerrank.com/sinasalimipourps4",
     // },
     // {
     //   siteName: "Codechef",
@@ -360,7 +360,7 @@ const competitiveSites = {
     //   style: {
     //     color: "#1F8ACB",
     //   },
-    //   profileLink: "https://codeforces.com/profile/sinagunps4",
+    //   profileLink: "https://codeforces.com/profile/sinasalimipourps4",
     // },
     // {
     //   siteName: "Hackerearth",
@@ -394,7 +394,7 @@ const degrees = {
         "⚡ I have studied basic and advance Network engineering subjects like TCP/IP, VLAN, IPv4,IPv6, OSI  etc.",
         "⚡ Apart from this, I have done courses on Data Science , HTML/CSS , JavaScript and Python .",
       ],
-      website_link: "https://sinagun.github.io/webpage-sinaonly-schoolAzadi/",
+      website_link: "https://sinasalimipour.github.io/webpage-sinaonly-schoolAzadi/",
     },
   ],
 };
